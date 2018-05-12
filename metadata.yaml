@@ -1,0 +1,39 @@
+_repo: A-Girl-s-Ride-in-Iceland_26006
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Harley, George
+    birthdate: 1829
+    deathdate: 1896
+    gutenberg_agent_id: '31736'
+    url: http://www.gutenberg.org/2009/agents/31736
+covers:
+- cover_type: archival
+  image_path: 26006-h/images/illus-cover-f.jpg
+creator:
+  author:
+    agent_name: Alec-Tweedie, Mrs. (Ethel)
+    aliases:
+    - Tweedie, Ethel Brilliana
+    - Tweedie, Ethel Brilliana Harley
+    - Harley, Ethel B
+    - Tweedie, Mrs Alec
+    - Tweedie, Mrs Alex
+    - Alec-Tweedie, Mrs
+    deathdate: 1940
+    gutenberg_agent_id: '31731'
+    url: http://www.gutenberg.org/2009/agents/31731
+description: ''
+gutenberg_issued: '2008-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iceland -- Description and travel'
+- !lcc 'G'
+title: A Girl's Ride in Iceland
+url: http://www.gutenberg.org/ebooks/26006
